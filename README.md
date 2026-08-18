@@ -47,5 +47,5 @@ The following models were implemented:
 | Overall Winner | **Logistic Regression** was the winner with 0.9825 accuracy. |
 
 ## Streamlit App Link
-
+https://ml-breast-cancer-classification-mofklc752uhslckzodnia7.streamlit.app/
 
